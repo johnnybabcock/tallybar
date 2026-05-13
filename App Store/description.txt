@@ -1,0 +1,24 @@
+TallyBar puts a live word, character, and line count for your clipboard right in the menu bar. Copy any text from anywhere — TallyBar shows the count instantly. No clicking, no opening apps, no counting by hand.
+
+Perfect for writers, editors, students, social media managers, marketers, and anyone who works under a length limit: tweets, headlines, ad copy, essays, abstracts, meta descriptions, SMS, push notifications.
+
+WHAT YOU GET
+• Live count in the menu bar — updates automatically every time you copy something
+• Pick what to display: characters, characters without spaces, words, or lines
+• Shorten the menu bar label to a single letter (c / w / l) when space is tight
+• Click the menu bar item for all four counts at once
+• Launch at login — set it once, forget about it
+• Tiny app, zero battery cost
+
+ONE HUNDRED PERCENT PRIVATE
+TallyBar reads your clipboard so it can count it. That's the entire app.
+• Clipboard contents stay on your Mac. Always.
+• No network code. No analytics. No tracking. No accounts.
+• Open source: github.com/johnnybabcock/tallybar
+• App Sandbox enabled
+• Privacy manifest declares zero data collection
+
+REQUIREMENTS
+macOS 13 Ventura or later.
+
+Built by an independent developer. Questions, ideas, complaints: johncbabcock@gmail.com.
