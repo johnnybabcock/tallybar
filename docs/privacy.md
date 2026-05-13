@@ -37,4 +37,4 @@ If this policy changes, the updated version will be posted at this URL and the "
 
 ## Contact
 
-Questions? Email **johncbabcock@gmail.com** or open an issue at <https://github.com/johnnybabcock/tallybar/issues>.
+Questions? Email **tallybar.app@gmail.com** or open an issue at <https://github.com/johnnybabcock/tallybar/issues>.

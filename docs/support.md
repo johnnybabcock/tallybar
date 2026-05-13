@@ -27,4 +27,4 @@ Open an issue at <https://github.com/johnnybabcock/tallybar/issues> with:
 
 ## Contact
 
-Email **johncbabcock@gmail.com**.
+Email **tallybar.app@gmail.com**.
