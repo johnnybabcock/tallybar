@@ -21,4 +21,4 @@ TallyBar reads your clipboard so it can count it. That's the entire app.
 REQUIREMENTS
 macOS 13 Ventura or later.
 
-Built by an independent developer. Questions, ideas, complaints: tallybar.app@gmail.com.
+Built by an independent developer. Questions, ideas, complaints: github.com/johnnybabcock/tallybar/issues

@@ -27,4 +27,4 @@ Open an issue at <https://github.com/johnnybabcock/tallybar/issues> with:
 
 ## Contact
 
-Email **tallybar.app@gmail.com**.
+File an issue at <https://github.com/johnnybabcock/tallybar/issues>. The developer reads every one.
